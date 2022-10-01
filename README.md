@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neuraxxx
-- 👀 I’m interested in gaming.
+- 👀 I’m interested in gaming，mod designing for games like MineCraft and Don't Starve Together, and learning new idea.
 - 🌱 I’m currently learning Java, C, Web Programming.
 
 <!---
